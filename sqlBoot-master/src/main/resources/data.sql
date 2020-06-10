@@ -8,5 +8,5 @@ CREATE TABLE SEANSI (
 );
 
 INSERT INTO seansi (zal ,name, seanstime) VALUES
-  ('1','book1', '13.12.20 13:00'),
-  ('1','Book2', '13.12.20 14:30');
+  ('1','film2', '13.12.20 13:00'),
+  ('1','film4', '13.12.20 14:30');
